@@ -1,0 +1,6 @@
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\bin\Debug\RouteEngine.dll
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\bin\Debug\RouteEngine.pdb
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\obj\Debug\RouteEngine.csproj.AssemblyReference.cache
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\obj\Debug\RouteEngine.csproj.CoreCompileInputs.cache
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\obj\Debug\RouteEngine.dll
+C:\Users\EliMarvin\Repos\RouteCalcProject\RouteEngine\obj\Debug\RouteEngine.pdb
